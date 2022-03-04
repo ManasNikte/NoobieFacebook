@@ -37,6 +37,10 @@ var database = [
         password: "RadheRadhe"
     },
     {
+        username: "Pratik",
+        password: "Trentboult"
+    },
+    {
         username: "Vishal",
         password: "KhushiKeAnsoo"
     }
