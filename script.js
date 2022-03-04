@@ -84,7 +84,7 @@ function signInVerification(username, password) {
 }
 
 // sign in form via 2 prompt boxes
-var userNamePrompt = prompt("What is your username?");
+var userNamePrompt = prompt("Login to Noobie Facebook : What is your username?");
 var passwordPrompt = prompt("What is your password?");
 
 // this statement will CALL the signInVerification() function
