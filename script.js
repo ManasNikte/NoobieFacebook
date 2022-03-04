@@ -17,7 +17,7 @@ var database = [
         password: "NoobPlayer"
     },
     {
-        username: "NikhiL",
+        username: "Nikhil",
         password: "GotiShotGuy"
     },
     {
